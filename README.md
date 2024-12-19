@@ -1,7 +1,7 @@
 <center>
-<h2><a href="http://wenjie1231.com">【主站】wenjie1231.com</a></h2>
+<h2><a href="http://wenjie1231.com:80">【主站】wenjie1231.com</a></h2>
 <br>
-<h2><a href="https://wenjie1231.com">【邮箱】wenjie1231.com</a></h2>
+<h2><a href="https://wenjie1231.com:443">【邮箱】wenjie1231.com</a></h2>
 <br>
 <h2><a href="http://wenjie.wenjie1231.com:8096">【流媒体】wenjie.wenjie1231.com:8096</a></h2>
 <br>
