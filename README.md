@@ -11,7 +11,4 @@
 <br>
 <h2>QQ:253254353</h2>
 <br>
-<h2>如果觉得我做的不错，欢迎打赏，打赏费用供应服务器运行使用。</h2>
-<br>
-<img src="wx.jpg"></img><img src="zfb.jpg"></img>
 </center>
