@@ -9,6 +9,8 @@
 <br>
 <h2><a href="http://github.com/sn142">【Github代码库】http://github.com/sn142</a></h2>
 <br>
+<h2><a href="http://wenjie1231.com:80/l2">【天堂2】wenjie1231.com/l2</a></h2>
+<br>
 <h2>QQ:253254353</h2>
 <br>
 <h2>如果觉得我做的不错，欢迎打赏，打赏费用供应服务器运行使用。</h2>
